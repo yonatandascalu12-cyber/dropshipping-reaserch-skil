@@ -15,8 +15,9 @@
 4. לחץ על **Customize**
 5. בתפריט הצדדי לחץ על סמל המגילה 📜
 6. לחץ על **+**
-7. לחץ על **Upload skill**
-8. בחר את הקובץ `dropshipping-research.skill`
+7. לחץ על **Create skill**
+8. לחץ על **Upload skill**
+9. בחר את הקובץ `dropshipping-research.skill`
 
 ## שימוש
 אחרי ההתקנה, פשוט תגיד ל-Claude:
