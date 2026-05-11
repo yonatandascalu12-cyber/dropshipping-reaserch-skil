@@ -1,31 +1,31 @@
 # 🛒 Dropshipping Research Skill for Claude.ai
 
-סקיל לחקירת שוק דרופשיפינג — מנתח חנויות, מוצרים מנצחים ופרסומות מצליחות.
+A skill for dropshipping market research — analyzes stores, finds winning products and top-performing ads.
 
-## מה הסקיל עושה
-- מנתח חנויות Shopify לפי URL
-- מוצא מוצרי דרופשיפינג מנצחים בכל נישה
-- מזהה פרסומות מצליחות ב-Facebook ו-TikTok
-- נותן המלצת Go / No-go ברורה עם מרווחי רווח משוערים
+## What the skill does
+- Analyzes Shopify stores by URL
+- Finds winning dropshipping products in any niche
+- Identifies top-performing ads on Facebook and TikTok
+- Gives a clear Go/No-go verdict with estimated profit margins
 
-## התקנה
-1. הורד את הקובץ `dropshipping-research.skill`
-2. פתח [claude.ai](https://claude.ai)
-3. עבור ל־**Settings → Connectors**
-4. לחץ על **Customize**
-5. בתפריט הצדדי לחץ על סמל המגילה 📜
-6. לחץ על **+**
-7. לחץ על **Create skill**
-8. לחץ על **Upload skill**
-9. בחר את הקובץ `dropshipping-research.skill`
+## Installation
+1. Download the file `dropshipping-research.skill`
+2. Open [claude.ai](https://claude.ai)
+3. Go to **Settings → Connectors**
+4. Click **Customize**
+5. In the side menu click the scroll icon 📜
+6. Click **+**
+7. Click **Create skill**
+8. Click **Upload skill**
+9. Select the file `dropshipping-research.skill`
 
-## שימוש
-אחרי ההתקנה, פשוט תגיד ל-Claude:
-> "תנתח את החנות הזו: https://..."
-> "מצא מוצרים מנצחים בנישת כלי בית"
-> "מה הפרסומות הכי טובות בנישת LED lights"
-> "האם נישת חיות מחמד שווה לדרופשיפינג?"
+## Usage
+After installation, simply tell Claude:
+> "Analyze this store: https://..."
+> "Find winning products in the home goods niche"
+> "What are the best ads in the LED lights niche?"
+> "Is the pet accessories niche good for dropshipping?"
 
-## דרישות
-- חשבון Claude.ai (חינמי או בתשלום)
-- לא נדרשים כלים בתשלום — הסקיל משתמש רק בכלים חינמיים
+## Requirements
+- Claude.ai account (free or paid)
+- No paid tools required — the skill uses only free tools
