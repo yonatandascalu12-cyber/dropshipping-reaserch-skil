@@ -13,9 +13,10 @@
 2. פתח [claude.ai](https://claude.ai)
 3. עבור ל־**Settings → Connectors**
 4. לחץ על **Customize**
-5. לחץ על **+**
-6. לחץ על **Create new skill**
-7. לחץ על **Upload from file** ובחר את הקובץ
+5. בתפריט הצדדי לחץ על **סמל המגילה** 📜
+6. לחץ על **+**
+7. לחץ על **Create new skill**
+8. לחץ על **Upload from file** ובחר את הקובץ
 
 ## שימוש
 אחרי ההתקנה, פשוט תגיד ל-Claude:
